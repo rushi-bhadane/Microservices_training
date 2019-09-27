@@ -81,3 +81,8 @@ in ecommerce app, applicaion properties file,
 
 For this to run, eurekaserver should be connected
 
+Hystrix:
+
+Project 1: Hystrix Dashboard, 8081
+Project 2: Hystrix Callback, 8090
+Project 3: Kycprocess, 7076
